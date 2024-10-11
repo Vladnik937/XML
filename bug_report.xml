@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+    <ID>1</ID>
+    <severity>number</severity>
+    <priority>Trivial, minor, major, critical, blocker</priority>
+    <environment>OS, Browser</environment>
+    <title>Text</title>
+    <steps>
+        <step_1>1 step</step_1>
+        <step_2>2 step</step_2>
+        <step_3>3 step</step_3>
+    </steps>
+    <expected_result>ER</expected_result>
+    <actual_result>AR</actual_result>
+    <attachment>link</attachment>
+    <author>nickname</author>
+    <comment>Text</comment>
+</bug_report>
