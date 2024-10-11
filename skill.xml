@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+    <skill_1>Testing theory</skill_1>
+    <skill_2>Terminal linux</skill_2>
+    <skill_3>Git</skill_3>
+    <skill_4>Client-Server</skill_4>
+    <skill_5>DevTools</skill_5>
+    <skill_6>Json, xml</skill_6>
+    <skill_7>Bug localization</skill_7>
+    <skill_8>SQL</skill_8>
+    <skill_9>Postman</skill_9>
+    <mobile_testing>
+        <adb>ADB</adb>
+        <charles>Charles</charles>
+        <fiddler>Fiddler</fiddler>
+        <android_studio>Android studio</android_studio>
+    </mobile_testing>
+</skills>
+
