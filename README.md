@@ -15,3 +15,8 @@
 ```xml
 ...
 ```
+## Bug_report.xml
+```xml
+...
+```
+## skills.xml - link 
